@@ -4,7 +4,7 @@
 First you will need to download the VSCode from its website [https://code.visualstudio.com/](https://code.visualstudio.com/), follow the instructions on its website and install vscode in your own PC. After installing, open VSCode and you should see the following page.
 <br/>
 <br/>
-![New Image](VSCodeInstall.jpg)
+    ![New Image](VSCodeInstall.jpg)
 <br/>
 <br/>
 
