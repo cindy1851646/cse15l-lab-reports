@@ -41,6 +41,6 @@ Create a file and save it locally(client), then look up your user name for the i
 <br/><br/>
 
 * Optimizing Remote Running
-    Using the command ```ssh cs15lwi22@ieng6.ucsd.edu "ls"``` can simply run the command "ls" on the server then exit automatically 
+    Using the command ```ssh cs15lwi22@ieng6.ucsd.edu "ls"``` can simply run the command "ls" on the server then exit automatically<br/>
     ![New Image](singleComm.jpg)
 
