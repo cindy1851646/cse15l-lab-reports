@@ -42,6 +42,6 @@ Create a file and save it locally(client), then look up your user name for the i
 
 * Optimizing Remote Running
     Using the command ```ssh cs15lwi22@ieng6.ucsd.edu "ls"``` can simply run the command "ls" on the server then exit automatically<br/>
-    The keystroke of this command is 34, entering these symbols and then press enter to compile. This will be faster for earlier parst of listing the files on the server. Before, we need to sign in to the ieng account and then use the ls command, then sign out. The process is faster when using this single line command for listing. </br>
+    The keystroke of this command is 34, entering these symbols and then press enter to compile. This will be faster for earlier parst of listing the files on the server. Before, we need to sign in to the ieng account and then use the ls command, then sign out. The process is faster when using this single line command for listing. <br/>
     ![New Image](singleComm.jpg)
 
