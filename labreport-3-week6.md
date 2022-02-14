@@ -1,17 +1,26 @@
-# Lab Report 3
+# Lab Report 3: Copy whole directories with ```scp -r```
 
-*Show where the public key you made is stored on Github and in your user account
- <br/>
- When logging in to your ieng6 account, add the directory by copy and past your github repository using URL to the repository.
+* The image of copying the whole markdown-parse directory to the ieng6 account is below.
+    <br/>
+    ![New Image](LabReport3Step1.jpg)
+    Using the command  ```scp -r . cs15lwi22alq@ieng6.ucsd.edu:~/markdown-parse ``` to copy the whole markdown-parse directory to the ieng6 account.
  
 <br/>
 
-*Show where the private key you made is stored on your user account (but not its contents) 
-<br/>
-using the "ls" command to get all the files in ieng6 account
+* Show logging into your ieng6 account after doing this and compiling and running the tests for your repository 
+    <br/>
+    
+    Using ``` ssh cs15lwi22alq@ieng6.ucsd.edu ``` to log in to your ieng6 account. <br/>
+
+    ![New Image](loginIeng6.jpg)
+    <br/>
+
+    Then use the ``` ls markdown-parse ``` command to list all the files in directory markdown-parse.<br/>
+
+    ![New Image](lsMarkdown.jpg)
 <br/>
 
-*Show running git commands to commit and push a change to Github while logged into your ieng6 account
-<br/>
-using git commit -m and git push to make changes to Github wile using ieng5 account.
+* Show combining scp, ;, and ssh to copy the whole directory and run some command in one line.
+    <br/>
+    ![New Image](scpInOneLine.jpg)
 <br/>
