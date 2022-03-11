@@ -1,9 +1,14 @@
 
-[Lab Report 1](https://cindy1851646.github.io/cse15l-lab-reports/lab-report-1-week-2.html)</br>
-[Lab Report 2](https://cindy1851646.github.io/cse15l-lab-reports/lab-report-2-week-4.html)</br>
-[Lab Report 3](https://cindy1851646.github.io/cse15l-lab-reports/labreport-3-week6.html)</br>
-[Lab Report 4](https://cindy1851646.github.io/cse15l-lab-reports/lab-report-4-week-8.html)</br>
-[Lab Report 5](https://cindy1851646.github.io/cse15l-lab-reports/lab-report-5-week-10.html)</br>
+[Lab Report 1](https://cindy1851646.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+</br>
+[Lab Report 2](https://cindy1851646.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
+</br>
+[Lab Report 3](https://cindy1851646.github.io/cse15l-lab-reports/labreport-3-week6.html)
+</br>
+[Lab Report 4](https://cindy1851646.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
+</br>
+[Lab Report 5](https://cindy1851646.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+</br>
 
 # Hello, world!
 ## Heading 2
