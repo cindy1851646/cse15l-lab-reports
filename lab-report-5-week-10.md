@@ -35,7 +35,7 @@ The part of code that needed to be fixed:
 ```
 toReturn.add(markdown.substring(openParen + 1, closeParen));
 ```
-</br>
+
 
 The problem in our code is that we returns all the things in between the parentheses and in some cases when there are other things within the link it also returns it. Therefore it has bug that needed to be fixed.</br></br>
 
