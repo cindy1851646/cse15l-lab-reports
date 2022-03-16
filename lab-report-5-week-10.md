@@ -34,7 +34,8 @@ Our current inplementation is incorrect and the output is ```
 [url &quot;tit&quot;]``` 
 </br></br>
 
-The provided implementation is incorrect and the output is ``` [] ``` </br></br>
+The provided implementation is incorrect and the output is ``` [] ``` 
+</br></br>
 
 The part of code that needed to be fixed: 
 ```
