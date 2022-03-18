@@ -35,6 +35,7 @@ Our current inplementation is incorrect and the output is ```
 
 The provided implementation is incorrect and the output is ``` [] ``` 
 
+The expected correct output should be ``` [url] ```
 
 The part of code that needed to be fixed: 
 ```
