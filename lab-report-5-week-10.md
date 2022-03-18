@@ -7,8 +7,10 @@ The file used: 201.md
 
 Our current inplementation is incorrect and it produced the output ``` [] ```. 
 
-The provided implementation is correct and produces the output ```
+The provided implementation is incorrect and produces the output ```
 [baz]```.
+
+The expected correct output is ```[(baz)]```
 
 
 The part of code that needed to be fixed: 
